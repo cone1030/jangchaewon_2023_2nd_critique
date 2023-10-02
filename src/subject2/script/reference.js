@@ -1,12 +1,11 @@
-  ```javascript
+```javascript
 const reference = [
   {
-    author: "이주헌",
-    title: "201820279",
+    author: "",
+    title: "",
     year: "",
     sourceTitle: "",
     link: "",
   },
 ]
-```,
-];
+```;
